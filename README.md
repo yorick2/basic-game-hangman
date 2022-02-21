@@ -1,4 +1,5 @@
 # hangman
+a very basic hangman game
 
 ## Project setup
 ```
